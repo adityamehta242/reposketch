@@ -22,8 +22,5 @@
 ## 📦 Installation
 
 ### Using npm (Recommended)
-
-> 💡 Coming soon! Once published to npm, you'll install it like this:
-
 ```bash
 npm install -g reposketch
