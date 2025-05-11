@@ -1,6 +1,6 @@
 {
   "name": "reposketch",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a tool that takes a GitHub repository, analyzes its project file structure, and outputs it to a text file",
   "license": "ISC",
   "author": "aditya-mehta",
